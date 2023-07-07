@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d285dbe-0338-4d1f-bb9a-03b2b3a8cb7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/springboot3_spring6_hibernate_chad_darby.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5d285dbe-0338-4d1f-bb9a-03b2b3a8cb7e" name="Changes" comment="Update exercises of Chapter 1: Spring Boot Quick Start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +59,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Desktop/springboot3_spring6_hibernate_chad_darby/01-spring-boot-overview/02-dev-tools-demo",
+    "last_opened_file_path": "D:/Desktop/springboot3_spring6_hibernate_chad_darby",
     "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
@@ -83,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1687860812656</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update exercises of Chapter 1: Spring Boot Quick Start">
+      <option name="closed" value="true" />
+      <created>1687967639273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687967639273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update exercises of Chapter 1: Spring Boot Quick Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update exercises of Chapter 1: Spring Boot Quick Start" />
   </component>
 </project>
